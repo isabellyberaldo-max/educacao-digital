@@ -30,5 +30,28 @@ nav{
 }
 
 nav a{
-    
+    color:black;
+    text-decoration: none;
+    background-color: midnightblue;
+    padding: 10px 15px;
+    border-radius: 8px;
+    margin: 5px;
+    display: inline-block;
+}
+nav a:hover{
+    background-color: aqua;
+}
+
+main{
+    width: 80%;
+    margin: auto;
+}
+
+section{
+    background-color: aquamarine;
+    margin: 20px 0;
+}
+
+img{
+
 }
